@@ -1,0 +1,57 @@
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+body{
+  font-family: "Montserrat";
+  background-image: url("C:/Users/Likhit/OneDrive/Desktop/Web Development/HTML-personal site/images/2855992.webp");
+
+  background-size: cover;
+}
+.dad {
+  width: 30px;
+  height: 30px;
+}
+.pad {
+    margin-top: 30px;
+    border-radius: 15px;
+}
+
+.title {
+  background-color: #EAE509;
+  color: #fff;
+  height: 90%;
+}
+.sel {
+  font-size: 2em;
+  padding-left: 12px;
+  font-family: "Montserrat-black";
+}
+h1{
+  font-family: "Montserrat-black";
+  font-size: 3.5rem;
+  font-weight: bold;
+  line-height: 1.25;
+}
+ @media only screen and (max-width: 1166px) {
+  body {
+    background-image: url("C:/Users/Likhit/OneDrive/Desktop/Web Development/HTML-personal site/images/query1.webp");
+    background-size: cover;
+  }
+}
+.hell {
+  color: black;
+  padding-right: 3px;
+}
+.hi {
+  padding-right: 5px;
+}
+
+.free {
+  background-color: dodgerblue;
+  color: white;
+  border-radius: 15px;
+}
